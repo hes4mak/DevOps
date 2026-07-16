@@ -1,6 +1,6 @@
-# DevOps Certification Project
+# DevOps Tamplates & Projects
 ### Overview
-Welcome to the DevOps Certification Project! This repository is designed to provide a thorough guide to mastering DevOps through hands-on tutorials, real-world examples, and comprehensive documentation. The project covers a wide array of essential DevOps topics, from Linux fundamentals to container orchestration, web services, cloud platforms, and advanced tools for automation and infrastructure management.
+Welcome to the DevOps Project! This repository is designed to provide a thorough guide to mastering DevOps through hands-on tutorials, real-world examples, and comprehensive documentation. The project covers a wide array of essential DevOps topics, from Linux fundamentals to container orchestration, web services, cloud platforms, and advanced tools for automation and infrastructure management.
 
 Whether you’re a beginner or an experienced DevOps engineer, this project offers valuable resources to help you build, manage, and scale modern infrastructure.
 
