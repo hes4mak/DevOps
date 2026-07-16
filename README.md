@@ -151,26 +151,3 @@ If you find this project useful and it helps you in your DevOps journey, please 
 
 You can also contribute by opening issues or pull requests with suggestions, improvements, or new content. Every contribution helps this project grow and reach more developers in the community!
 
-### About Me
-<table>
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/19145573?v=4" alt="Ahmad Rafiee" width="750" style="border-radius: 750%;">
-    </td>
-    <td>
-      <h2>Ahmad Rafiee</h2>
-      <p>With over 15 years of experience in DevOps and infrastructure, I have been dedicated to designing and implementing a wide range of solutions, from small services and stacks to large cloud clusters. Throughout my career, I have gained extensive knowledge in various technologies and methodologies, enabling me to tackle complex challenges effectively.
-
-I have also been passionate about sharing my expertise through teaching DevOps, empowering the next generation of professionals in the field. Additionally, I have served as a consultant on numerous projects, collaborating with diverse teams to enhance their DevOps practices and infrastructure.
-
-My commitment to continuous learning and adaptation ensures that I stay at the forefront of the rapidly evolving tech landscape, making me a valuable asset to any organization or initiative.</p>
-    </td>
-  </tr>
-</table>
-
-# 🔗 Links
-[![Site](https://img.shields.io/badge/Dockerme.ir-0A66C2?style=for-the-badge&logo=docker&logoColor=white)](https://dockerme.ir/)
-[![YouTube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@dockerme)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-rafiee/)
-[![Telegram](https://img.shields.io/badge/telegram-0A66C2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dockerme)
-[![Instagram](https://img.shields.io/badge/instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dockerme)
